@@ -3,4 +3,4 @@
 Hello I'm Napat.
 
 ## Englenring Education
-### Computre 
+### Computre technology
